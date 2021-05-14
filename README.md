@@ -27,7 +27,7 @@ List down where you need help
 1. Format the Message properly
 2. A better way of Implementation other than setTimeout()
 
-Find something that's not on the list create an issue
+Find something that's not on the list create an issue with `I want to help` template
 
 
 
