@@ -23,4 +23,4 @@ setInterval(async function () {
   } else {
     console.log("no change");
   }
-}, 1000);
+}, 1800000);
